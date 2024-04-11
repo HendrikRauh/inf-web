@@ -15,13 +15,15 @@ endif::[]
 
 NOTE: Ich garantiere nicht für die Richtigkeit der Informationen.
 
-== link:/doc/html.adoc[HTML]
-
-== link:/doc/css.adoc[CSS]
-
 [TIP] 
 ====
 Eine Website mit allen möglichen Informationen run um WEB-Development ist link:https://www.w3schools.com/[w3schools.com].
 
 Dort gibt es auch Übungen und Beispiele.
 ====
+
+== link:/doc/html.adoc[HTML-Aufschrieb]
+
+== link:/doc/css.adoc[CSS-Aufschrieb]
+
+== Beispiel Code: link:index.html[HTML] und link:style.css[CSS] ergeben link:https://hendrikrauh.github.io/inf-web/index.html[diese Seite].
