@@ -1,17 +1,13 @@
-:icons: font
-:source-highlighter: rouge
+:icons: material
+:source-highlighter: highlightjs
 :imagesdir: images
 :toc: left
 :toc-title: Inhaltsverzeichnis
-:sectnums:
-:sectlinks:
-:sectanchors:
 
-= Dokumentation Web-UI
+= Web-Benutzeroberflächenentwicklung
 
-Für den Informatik-Unterricht Kl. 11/12
+== link:/doc/html.adoc[HTML]
 
-Eine Sinnvolle Website mit allen möglichen Informationen run um WEB-Development ist [w3schools.com](https://www.w3schools.com/)
+== link:/doc/css.adoc[CSS]
 
-include::doc/html.adoc[leveloffset=1]
-include::doc/css.adoc[leveloffset=1]
+TIP: Eine Website mit allen möglichen Informationen run um WEB-Development ist link:https://www.w3schools.com/[w3schools.com]. Dort gibt es auch Übungen und Beispiele.
