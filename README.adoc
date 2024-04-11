@@ -1,4 +1,3 @@
-:icons: font
 :source-highlighter: highlightjs
 :imagesdir: images
 
