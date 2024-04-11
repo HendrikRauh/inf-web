@@ -56,7 +56,7 @@ endif::[]
 
 - Informationen für den Browser wie er die Seite anzeigen soll
 - enthält keine Infos für den Inhalt der Seite selber
-- im folgenden wird zum Beispiel der Fenstertitel definiert
+- im Folgenden wird zum Beispiel der Fenstertitel definiert
 
 [source,html]
 ----
@@ -71,7 +71,7 @@ image::images/title.png[]
 == Body
 
 - enthält den Inhalt der Seite
-- im folgenden wird zum Beispiel ein Absatz definiert
+- im Folgenden wird zum Beispiel ein Absatz definiert
 
 [source,html]
 ----
