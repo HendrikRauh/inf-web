@@ -17,7 +17,7 @@ NOTE: Ich garantiere nicht für die Richtigkeit der Informationen.
 
 [TIP] 
 ====
-Eine Website mit allen möglichen Informationen run um WEB-Development ist link:https://www.w3schools.com/[w3schools.com].
+Eine Website mit allen möglichen Informationen rund um WEB-Development ist link:https://www.w3schools.com/[w3schools.com].
 
 Dort gibt es auch Übungen und Beispiele.
 ====
