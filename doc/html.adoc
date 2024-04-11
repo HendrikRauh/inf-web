@@ -27,7 +27,7 @@ endif::[]
 - die meisten Tags müssen wieder geschlossen werden durch ein weiteren Tag (z.B. `</body>`) geschlossen werden, es gibt aber auch Tags die sich selber schließen (z.B. `<img/>`)
 - zwischen diese kann man Informationen schreiben
 
-[cols="1,1,3", options="header"]
+[cols="3,1,5", options="header"]
 |===
 | Tag | Bedeutung | Beispiel
 |`<html>`...`</html>` | HyperTextMarkupLanguage | Wird am Anfang geöffnet und am Ende geschlossen und grenzt den Inhalt der Seite ab.
