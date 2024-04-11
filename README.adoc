@@ -1,8 +1,6 @@
-:icons: material
+:icons: font
 :source-highlighter: highlightjs
 :imagesdir: images
-:toc: left
-:toc-title: Inhaltsverzeichnis
 
 = Web-Benutzeroberflächenentwicklung
 
