@@ -1,5 +1,4 @@
-:source-highlighter: highlightjs
-:imagesdir: images
+:icons: image
 
 = Web-Benutzeroberflächenentwicklung
 
