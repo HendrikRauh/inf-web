@@ -1,0 +1,45 @@
+body {
+    background-color: antiquewhite;
+    color: #232323;
+    font-family: 'Arial', sans-serif;
+}
+
+h1 {
+    color: rgb(120, 0, 108);
+    text-align: center;
+    text-decoration: underline dotted;
+}
+
+a {
+    color: #00667a;
+    text-decoration: none;
+}
+
+img {
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+#abschnitt
+{
+    background-color: #f4f4f4;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #ccc;
+}
+
+#abschnitt h2
+{
+    color: #739638;
+}
+
+#abschnitt p
+{
+    color: #632424;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+}

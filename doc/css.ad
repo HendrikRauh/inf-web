@@ -1,0 +1,38 @@
+= CSS (Cascading Style Sheets)
+
+- CSS ist eine Sprache um das Aussehen von HTML Elementen zu definieren
+- Es gibt 3 Möglichkeiten CSS zu definieren
+* Inline
+* Internal
+* External
+
+== CSS Definitionsweisen
+
+.Inline
+Gleich im Tag wird das Aussehen definiert
+[source,html]
+----
+<h1 style="color:blue;">Ich bin blau</h1>
+----
+
+.Internal
+Im Head wird ein Style Tag definiert in dem das Aussehen definiert wird
+[source,html]
+----
+<head>
+    <style>
+        h1 {
+            color: blue;
+        }
+    </style>
+</head>
+----
+
+.External
+In einer externen Datei wird das Aussehen definiert welches dann im Head der HTML Datei eingebunden wird
+[source,html]
+----
+<head>
+    <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+----

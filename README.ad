@@ -1,0 +1,17 @@
+:icons: font
+:source-highlighter: rouge
+:imagesdir: images
+:toc: left
+:toc-title: Inhaltsverzeichnis
+:sectnums:
+:sectlinks:
+:sectanchors:
+
+= Dokumentation Web-UI
+
+Für den Informatik-Unterricht Kl. 11/12
+
+Eine Sinnvolle Website mit allen möglichen Informationen run um WEB-Development ist [w3schools.com](https://www.w3schools.com/)
+
+include::doc/html.ad[leveloffset=1]
+include::doc/css.ad[leveloffset=1]
