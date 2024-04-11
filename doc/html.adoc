@@ -1,23 +1,24 @@
+:icons: font
+ifdef::env-github[]
+:branch: main
+:status:
+:outfilesuffix: .adoc
+:!toc-title:
+:caution-caption: :fire:
+:important-caption: :exclamation:
+:note-caption: :paperclip:
+:tip-caption: :bulb:
+:warning-caption: :warning:
+endif::[]
+
 = HTML (HyperTextMarkupLanguage)
 
-- Struktur der Seite
-- Inhalt
+== Einführung
 
-== Head
-
-- Informationen für den Browser wie er die Seite anzeigen soll
-- enthält keine Infos für den Inhalt der Seite selber
-- im folgenden wird zum Beispiel der Fenstertitel definiert
-
-[source,html]
-----
-<head>
-    <title>Ich stehen oben im Browserfenster</title>
-</head>
-----
-// add image title.png
-
-image::images/title.png[]
+- HTML ist eine Auszeichnungssprache
+- HTML wird verwendet um Inhalte im Web zu strukturieren
+- HTML besteht aus Tags die den Inhalt definieren
+- HTML wird im Browser gerendert
 
 == Tags
 
@@ -50,3 +51,31 @@ image::images/title.png[]
 |`<br/>` | Break | Fügt einen Zeilenumbruch ein.
 |`<hr/>` | Horizontal Rule | Fügt eine horizontale Linie ein.
 |===
+
+== Head
+
+- Informationen für den Browser wie er die Seite anzeigen soll
+- enthält keine Infos für den Inhalt der Seite selber
+- im folgenden wird zum Beispiel der Fenstertitel definiert
+
+[source,html]
+----
+<head>
+    <title>Ich stehen oben im Browserfenster</title>
+</head>
+----
+// add image title.png
+
+image::images/title.png[]
+
+== Body
+
+- enthält den Inhalt der Seite
+- im folgenden wird zum Beispiel ein Absatz definiert
+
+[source,html]
+----
+<body>
+    <p>Ich bin ein Absatz</p>
+</body>
+----
