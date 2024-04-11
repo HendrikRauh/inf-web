@@ -19,4 +19,9 @@ NOTE: Ich garantiere nicht für die Richtigkeit der Informationen.
 
 == link:/doc/css.adoc[CSS]
 
-TIP: Eine Website mit allen möglichen Informationen run um WEB-Development ist link:https://www.w3schools.com/[w3schools.com]. Dort gibt es auch Übungen und Beispiele.
+[TIP] 
+====
+Eine Website mit allen möglichen Informationen run um WEB-Development ist link:https://www.w3schools.com/[w3schools.com].
+
+Dort gibt es auch Übungen und Beispiele.
+====
