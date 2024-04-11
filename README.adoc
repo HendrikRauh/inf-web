@@ -1,6 +1,11 @@
-:icons: image
+:icons: font
 
 = Web-Benutzeroberflächenentwicklung
+
+[NOTE]
+====
+Ich garantiere nicht für die Richtigkeit der Informationen.
+====
 
 == link:/doc/html.adoc[HTML]
 
